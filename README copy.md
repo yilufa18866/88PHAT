@@ -1,17 +1,12 @@
-### 点击右上角在浏览器打开下载
+<span style="font-size:24px;font-weight:bolder">点击右上角在浏览器打开下载</span>
 
----
+<br />
+<hr />
+<br />
+<br />
+<br />
 
-
-<div style="display:inline-flex;align-items:center;">
-  <img
-    src="./assets/app_logo.png"
-    style="height:88px;vertical-align:middle"
-  />
-  <span
-    style="font-size:68px;margin-left:15px;font-weight:bolder;letter-spacing:2px"
-  >88PHAT</span>
-</div>
+![88PHAT](./assets/home_logo.png)  
 <div>
   <a 
     href="https://github.com/yilufa18866/88PHAT/releases/download/release-250520/cn88phat.release.apk"
