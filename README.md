@@ -51,7 +51,7 @@
       src="./assets/app_icon_android.svg"
       style="width:40px;height:40px;"
     />
-    下载快连安卓版
+    下载Telegram安卓版
   <a>
   <br />
   <br />
@@ -63,7 +63,7 @@
       src="./assets/app_icon_desktop.svg"
       style="width:40px;height:40px;"
     />
-    下载快连 Windows版
+    下载Telegram Windows版
   <a>
   <br />
   <br />
@@ -75,7 +75,7 @@
       src="./assets/app_icon_macos.svg"
       style="width:40px;height:40px;vertical-align:middle;"
     />
-    下载快连苹果电脑版
+    下载Telegram苹果电脑版
   <a>
   <br />
 </div>
