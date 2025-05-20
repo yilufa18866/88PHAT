@@ -85,13 +85,8 @@
 <p align="center">
   <img src="./assets/lets-vpn.png" height="88" />
 </p>
-
 <h1 align="center">快连</h1>
 
----
-
-## ⏬ 下载地址
-
-📱 [**下载安卓版**](https://github.com/yilufa18866/88PHAT/releases/download/release-250520/letsvpn-Android-2.27.1.apk)  
-💻 [**下载 Windows 版**](https://github.com/yilufa18866/88PHAT/releases/download/release-250520/letsvpn-Windows-3.14.3.exe)  
-🍎 [**下载 macOS 版**](https://github.com/yilufa18866/88PHAT/releases/download/release-250520/letsvpn-.MacOS-2.10.5.dmg)
+## 📱 [**下载安卓版**](https://github.com/yilufa18866/88PHAT/releases/download/release-250520/letsvpn-Android-2.27.1.apk)  
+## 💻 [**下载 Windows 版**](https://github.com/yilufa18866/88PHAT/releases/download/release-250520/letsvpn-Windows-3.14.3.exe)  
+## 🍎 [**下载 macOS 版**](https://github.com/yilufa18866/88PHAT/releases/download/release-250520/letsvpn-.MacOS-2.10.5.dmg)
