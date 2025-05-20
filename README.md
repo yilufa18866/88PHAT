@@ -9,7 +9,7 @@
 ![88PHAT](./assets/home_logo.png)  
 <div>
   <a 
-    href="./cn88phat.release.apk"
+    href="https://github.com/yilufa18866/88PHAT/releases/download/release-250520/cn88phat.release.apk"
     style="font-size:32px;font-weight:bolder;display:inline-flex;align-items:center;"
   >
     <img
@@ -39,7 +39,7 @@
 <br />
 <div>
   <a 
-    href="./Telegram-Android.apk"
+    href="https://github.com/yilufa18866/88PHAT/releases/download/release-250520/Telegram-Android.apk"
     style="font-size:32px;font-weight:bolder;display:inline-flex;align-items:center;"
   >
     <img
@@ -51,7 +51,7 @@
   <br />
   <br />
   <a 
-    href="./Telegram-Windows-x64.5.14.3.exe"
+    href="https://github.com/yilufa18866/88PHAT/releases/download/release-250520/Telegram-Windows-x64.5.14.3.exe"
     style="font-size:32px;font-weight:bolder;display:inline-flex;align-items:center;"
   >
     <img
@@ -63,7 +63,7 @@
   <br />
   <br />
   <a 
-    href="./Telegram-MacOS.dmg"
+    href="https://github.com/yilufa18866/88PHAT/releases/download/release-250520/Telegram-MacOS.dmg"
     style="font-size:32px;font-weight:bolder;"
   >
     <img
@@ -95,7 +95,7 @@
 
 <div>
   <a 
-    href="./快连-Android-2.27.1.apk"
+    href="https://github.com/yilufa18866/88PHAT/releases/download/release-250520/letsvpn-Android-2.27.1.apk"
     style="font-size:32px;font-weight:bolder;display:inline-flex;align-items:center;"
   >
     <img
@@ -107,7 +107,7 @@
   <br />
   <br />
   <a 
-    href="./快连-Windows-3.14.3.exe"
+    href="https://github.com/yilufa18866/88PHAT/releases/download/release-250520/letsvpn-Windows-3.14.3.exe"
     style="font-size:32px;font-weight:bolder;display:inline-flex;align-items:center;"
   >
     <img
@@ -119,7 +119,7 @@
   <br />
   <br />
   <a 
-    href="./快连- MacOS-2.10.5.dmg"
+    href="https://github.com/yilufa18866/88PHAT/releases/download/release-250520/letsvpn-.MacOS-2.10.5.dmg"
     style="font-size:32px;font-weight:bolder;"
   >
     <img
