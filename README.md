@@ -1,7 +1,6 @@
-<span style="font-size:24px;font-weight:bolder">点击右上角在浏览器打开下载</span>
+## 点击右上角在浏览器打开下载
 
 <br />
-<hr />
 <br />
 <br />
 <br />
